@@ -5,4 +5,8 @@ class ApplicationController < ActionController::Base
   def demo_class
     @task="Hello"
   end
+
+  def demo_class2
+    @task="Hello"
+  end
 end
