@@ -8,4 +8,8 @@ class ApplicationController < ActionController::Base
   def demo_class3
     @task="Hello Dasith"
   end
+
+  def fourth
+    
+  end
 end
