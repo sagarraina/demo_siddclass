@@ -9,7 +9,8 @@ class ApplicationController < ActionController::Base
     @task="Hello Dasith"
   end
 
-  def fourthfifthSixth
-    
+  def fourthfifthseventh
+    puts('blah')
+
   end
 end
